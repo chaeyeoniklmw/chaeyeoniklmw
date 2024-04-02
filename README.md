@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=chaeyeon's%20GitHub&fontSize=90)
 Tech Stack
-<img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=#3776AB&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/pycharm-20232a.svg?style=for-the-badge&logo=#000000&logoColor=61DAhB" />
-<img src="https://img.shields.io/badge/HeidiSQL-20232a.svg?style=for-the-badge&logo=logoColor=61DAAB" />
-<img src="https://img.shields.io/badge/MySQL-20232a.svg?style=for-the-badge&logo=#4479A1&logoColor=61DAYB" />
-<img src="https://img.shields.io/badge/Docker-20232a.svg?style=for-the-badge&logo=#2496ED&logoColor=61DAEB" />
+<img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=#3776AB" />
+<img src="https://img.shields.io/badge/pycharm-20232a.svg?style=for-the-badge&logo=pycharm&logoColor=#000000" />
+<img src="https://img.shields.io/badge/HeidiSQL-20232a.svg?style=for-the-badge&logo=HeidiSQLlogoColor=61DAAB" />
+<img src="https://img.shields.io/badge/MySQL-20232a.svg?style=for-the-badge&logo=MySQL&logoColor=#4479A1" />
+<img src="https://img.shields.io/badge/Docker-20232a.svg?style=for-the-badge&logo=Docker&logoColor=#2496ED" />
 
 
 
