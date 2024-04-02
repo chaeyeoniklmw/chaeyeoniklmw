@@ -2,7 +2,7 @@
 Tech Stack
 <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" />
-<img src="https://img.shields.io/badge/HeidiSQL-61DAAB.svg?style=for-the-badge&logo=HeidiSQLlogoColor=white" />
+<img src="https://img.shields.io/badge/HeidiSQL-88CE02.svg?style=for-the-badge&logo=HeidiSQLlogoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />
 
