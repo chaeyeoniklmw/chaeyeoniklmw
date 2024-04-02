@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20chaeyeon's Github&fontSize=90)
+https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello,%20World!&fontSize=90
 - 👋 Hi, I’m @chaeyeoniklmw
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ... ML data Analystics, java
