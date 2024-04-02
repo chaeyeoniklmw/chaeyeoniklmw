@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=d6ace5&height=300&section=header&text=chaeyeon's%20GitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=d6ace0&height=300&section=header&text=chaeyeon's%20GitHub&fontSize=90)
 
 
 
