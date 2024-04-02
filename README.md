@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=chaeyeon's%20GitHub&fontSize=90)
 Tech Stack
-<img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/python-FFFF64.svg?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" />
 <img src="https://img.shields.io/badge/HeidiSQL-88CE02.svg?style=for-the-badge&logo=HeidiSQLlogoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
