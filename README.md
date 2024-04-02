@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />
 <img src="https://img.shields.io/badge/python-FFCC33.svg?style=for-the-badge&logo=python&logoColor=white" />
-</div>div>
+</div>
 
 
 
