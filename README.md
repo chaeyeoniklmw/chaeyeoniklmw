@@ -17,7 +17,7 @@
 
 ## 🛠️ Cowork Tools
 - Git
-- JIRA
+- Discord
 - Slack
 - 기타 협업 도구를 여기에 나열하세요.
 
