@@ -13,7 +13,6 @@
 ## 🌱 Currently Learning
 - 머신 러닝
 - 데이터 분석
-- 기타 배우고 있는 것을 여기에 나열하세요.
 
 ## 🛠️ Cowork Tools
 - Git
