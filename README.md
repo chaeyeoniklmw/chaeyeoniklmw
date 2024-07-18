@@ -2,6 +2,7 @@
 간단한 자기소개를 이곳에 작성하세요.
 
 ## ✨ Tech Stack 
+<div align="center">
   <img src="https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/HeidiSQL-88CE02.svg?style=for-the-badge&logo=HeidiSQL&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
