@@ -19,7 +19,7 @@
 - Git
 - Discord
 - Slack
-- 기타 협업 도구를 여기에 나열하세요.
+- Notion
 
 ## ✨ Career & Education
 | 이름                                    | 내용                                | 기간                      |
