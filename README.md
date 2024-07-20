@@ -1,5 +1,5 @@
 # 😊 About Me
-간단한 자기소개를 이곳에 작성하세요.
+서울여자대학교 데이터사이언스학과 김채연
 
 ## ✨ Tech Stack 
 <div align="center">
