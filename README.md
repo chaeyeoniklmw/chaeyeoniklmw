@@ -13,6 +13,7 @@
 ## 🌱 Currently Learning
 - 머신 러닝
 - 데이터 분석
+- ADsP, SQLD
 
 ## 🛠️ Cowork Tools
 - Git
