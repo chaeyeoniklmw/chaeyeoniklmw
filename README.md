@@ -2,14 +2,50 @@
 서울여자대학교 데이터사이언스학과 김채연
 
 ## ✨ Tech Stack 
+
 <div align="center">
-  <img src="https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/HeidiSQL-88CE02.svg?style=for-the-badge&logo=HeidiSQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-FFCC33.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white" />
-  <img src="https://img.shields.io/badge/SPSS-0536DD.svg?style=for-the-badge&logo=IBM&logoColor=white" />
+  <div style="width: 200px; margin: 10px 0;">
+    <span>PyCharm</span>
+    <div style="background: #e0e0e0; border-radius: 5px;">
+      <div style="width: 90%; background: #000000; color: white; padding: 5px; border-radius: 5px;">90%</div>
+    </div>
+  </div>
+  <div style="width: 200px; margin: 10px 0;">
+    <span>HeidiSQL</span>
+    <div style="background: #e0e0e0; border-radius: 5px;">
+      <div style="width: 70%; background: #88CE02; color: white; padding: 5px; border-radius: 5px;">70%</div>
+    </div>
+  </div>
+  <div style="width: 200px; margin: 10px 0;">
+    <span>MySQL</span>
+    <div style="background: #e0e0e0; border-radius: 5px;">
+      <div style="width: 85%; background: #4479A1; color: white; padding: 5px; border-radius: 5px;">85%</div>
+    </div>
+  </div>
+  <div style="width: 200px; margin: 10px 0;">
+    <span>Docker</span>
+    <div style="background: #e0e0e0; border-radius: 5px;">
+      <div style="width: 80%; background: #2496ED; color: white; padding: 5px; border-radius: 5px;">80%</div>
+    </div>
+  </div>
+  <div style="width: 200px; margin: 10px 0;">
+    <span>Python</span>
+    <div style="background: #e0e0e0; border-radius: 5px;">
+      <div style="width: 95%; background: #FFCC33; color: white; padding: 5px; border-radius: 5px;">95%</div>
+    </div>
+  </div>
+  <div style="width: 200px; margin: 10px 0;">
+    <span>R</span>
+    <div style="background: #e0e0e0; border-radius: 5px;">
+      <div style="width: 75%; background: #276DC3; color: white; padding: 5px; border-radius: 5px;">75%</div>
+    </div>
+  </div>
+  <div style="width: 200px; margin: 10px 0;">
+    <span>SPSS</span>
+    <div style="background: #e0e0e0; border-radius: 5px;">
+      <div style="width: 65%; background: #0536DD; color: white; padding: 5px; border-radius: 5px;">65%</div>
+    </div>
+  </div>
 </div>
 
 
