@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/FASTAPI-009688.svg?style=for-the-badge&logo=FASTAPI&logoColor=white" />
   <img src="https://img.shields.io/badge/GoogleCloud-4285F4.svg?style=for-the-badge&logo=GoogleCloud&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
-  <img src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=VisualStudio&logoColor=white" />
 </div>
 
 
