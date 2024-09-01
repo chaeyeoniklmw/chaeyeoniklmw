@@ -12,8 +12,7 @@
   <img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white" />
   <img src="https://img.shields.io/badge/SPSS-0536DD.svg?style=for-the-badge&logo=IBM&logoColor=white" />
   <img src="https://img.shields.io/badge/FASTAPI-009688.svg?style=for-the-badge&logo=FASTAPI&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoogleCloud-4285F4.svg?style=for-the-badge&logo=GoogleCloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
+
 </div>
 
 
