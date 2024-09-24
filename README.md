@@ -19,7 +19,7 @@
 
 ## 🌱 Currently Learning
 - 딥러닝
-- ADsP, SQLD
+- SQLD
 - 코딩테스트 
 
 ## 🛠️ Cowork Tools
