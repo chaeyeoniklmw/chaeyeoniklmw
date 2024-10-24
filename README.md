@@ -20,7 +20,6 @@
 ## 🌱 Currently Learning
 - 딥러닝
 - SQLD
-- 코딩테스트 
 
 ## 🛠️ Cowork Tools
 - Git
