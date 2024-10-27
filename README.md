@@ -19,7 +19,7 @@
 
 ## 🌱 Currently Learning
 - 딥러닝
-- SQLD
+- JAVA
 
 ## 🛠️ Cowork Tools
 - Git
