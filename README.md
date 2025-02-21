@@ -19,7 +19,6 @@
 
 ## 🌱 Currently Learning
 - 딥러닝
-- JAVA
 
 ## 🛠️ Cowork Tools
 - Git
