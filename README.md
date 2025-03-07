@@ -18,7 +18,7 @@
 
 
 ## 🌱 Currently Learning
-- 딥러닝
+- ...
 
 ## 🛠️ Cowork Tools
 - Git
@@ -47,7 +47,7 @@
 | LG 디스커버리랩 서울 대학생 CREW | LG 디스커버리랩 서울 | 2024.08.30~ 2024.08.30(12개월)|
 | GDG SWU AI/ML CORE            |GDG Campus Korea | 2024.09~ 2025.09. (12개월)|
 | LG Dlab 장기심화 멘토| LG 디스커버리랩 서울|2025.02.03 ~ 2025.02.17 (3주간)|
-| TAVE DeepLearning part member| TAVE IT union club | 2025.03 ~2025.07(5개월)|
+| TAVE DeepLearning  member| TAVE IT union club | 2025.03 ~2025.07(5개월)|
 
 
 
