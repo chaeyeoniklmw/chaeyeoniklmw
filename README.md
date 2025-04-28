@@ -17,8 +17,6 @@
 
 
 
-## 🌱 Currently Learning
-- ...
 
 ## 🛠️ Cowork Tools
 - Git
