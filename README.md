@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white" />
   <img src="https://img.shields.io/badge/SPSS-0536DD.svg?style=for-the-badge&logo=IBM&logoColor=white" />
   <img src="https://img.shields.io/badge/FASTAPI-009688.svg?style=for-the-badge&logo=FASTAPI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=Blender&logoColor=white" />
 
 </div>
 
